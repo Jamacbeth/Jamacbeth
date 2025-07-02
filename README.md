@@ -1,48 +1,48 @@
 ## Hi there 👋
+# Hi, I’m Jay 👋
+
 I’m currently working through a full-stack design and development program that covers everything from UI/UX to front-end and back-end technologies. I've completed a UI/UX course and am diving deeper into real-world projects using version control and collaboration through GitHub.
 
-About Me
-I'm passionate about both design and development. With a background in tools like Adobe XD, Illustrator, and Photoshop, I focus on creating clean, user-focused interfaces. I’m now expanding into full-stack development with a strong interest in front-end frameworks and dynamic web apps.
+## About Me
 
-I’m Currently Working On
-Strengthening my UI/UX design skills using Adobe XD, Illustrator, and Photoshop
+I'm passionate about both design and development. With a background in tools like **Adobe XD**, **Illustrator**, and **Photoshop**, I focus on creating clean, user-focused interfaces. I’m now expanding into full-stack development with a strong interest in front-end frameworks and dynamic web apps.
 
-Practicing real-world version control and collaboration workflows using Git and GitHub
+## I’m Currently Working On
 
-Building small interactive projects to apply UI/UX concepts in code
+- Strengthening my UI/UX design skills using **Adobe XD**, **Illustrator**, and **Photoshop**  
+- Practicing real-world **version control and collaboration** workflows using **Git** and **GitHub**  
+- Building small interactive projects to apply UI/UX concepts in code  
 
-I Will Be Learning
+## I Will Be Learning
+
 As part of my upcoming coursework, I will be learning:
 
-Frontend frameworks: React and Angular
+- Frontend frameworks: **React** and **Angular**  
+- Backend development: **PHP**, **MySQL**, and Linux server management  
+- CMS platforms: **WordPress**  
+- Adobe design tools: **Illustrator**, **Photoshop**, and advanced **XD** workflows  
+- Mobile web development and responsive design best practices  
+- Real-world team workflows using GitHub, Git, and open-source collaboration
 
-Backend development: PHP, MySQL, and Linux server management
+## I’m Looking to Collaborate On
 
-CMS platforms: WordPress
+- Beginner-friendly open source projects  
+- UI/UX-focused web applications  
+- Small tools or utilities that improve productivity or accessibility
 
-Adobe design tools: Illustrator, Photoshop, and advanced XD workflows
+## Ask Me About
 
-Mobile web development and responsive design best practices
+- Adobe XD and UI/UX workflows  
+- HTML/CSS best practices  
+- Getting started with Git and GitHub  
+- My experience transitioning from design to development
 
-Real-world team workflows using GitHub, Git, and open-source collaboration
+## How to Reach Me
 
-I’m Looking to Collaborate On
-Beginner-friendly open source projects
+- GitHub: [@Jamacbeth](https://github.com/Jamacbeth)  
+- (You can add email, LinkedIn, or portfolio link here if you'd like)
 
-UI/UX-focused web applications
+## Fun Fact
 
-Small tools or utilities that improve productivity or accessibility
+I love blending creativity and code — whether it's designing smooth interfaces or building dynamic components, I enjoy working on projects that challenge both my design sense and development skills.
 
-Ask Me About
-Adobe XD and UI/UX workflows
-
-HTML/CSS best practices
-
-Getting started with Git and GitHub
-
-My experience transitioning from design to development
-
-How to Reach Me
-GitHub: @Jamacbeth
-
-(You can add email, LinkedIn, or portfolio link here if you'd like)
