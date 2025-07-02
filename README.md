@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi, I’m Jay 👋
 
 I’m currently working through a full-stack design and development program that covers everything from UI/UX to front-end and back-end technologies. I've completed a UI/UX course and am diving deeper into real-world projects using version control and collaboration through GitHub.
 
