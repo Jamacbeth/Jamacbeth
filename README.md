@@ -41,7 +41,4 @@ As part of my upcoming coursework, I will be learning:
 - GitHub: [@Jamacbeth](https://github.com/Jamacbeth)  
 - (You can add email, LinkedIn, or portfolio link here if you'd like)
 
-## Fun Fact
-
-I love blending creativity and code — whether it's designing smooth interfaces or building dynamic components, I enjoy working on projects that challenge both my design sense and development skills.
 
