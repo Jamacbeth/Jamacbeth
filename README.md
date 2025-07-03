@@ -8,7 +8,7 @@ I'm passionate about both design and development. With a background in tools lik
 
 ## I’m Currently Working On
 
-- Strengthening my UI/UX design skills using **Adobe XD
+- Strengthening my UI/UX design skills using Adobe XD
 - Practicing real-world **version control and collaboration** workflows using **Git** and **GitHub**  
 - Building small interactive projects to apply UI/UX concepts in code  
 
