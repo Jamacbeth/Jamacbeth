@@ -8,7 +8,7 @@ I'm passionate about both design and development. With a background in tools lik
 
 ## I’m Currently Working On
 
-- Strengthening my UI/UX design skills using **Adobe XD**, **Illustrator**, and **Photoshop**  
+- Strengthening my UI/UX design skills using **Adobe XD
 - Practicing real-world **version control and collaboration** workflows using **Git** and **GitHub**  
 - Building small interactive projects to apply UI/UX concepts in code  
 
@@ -39,6 +39,6 @@ As part of my upcoming coursework, I will be learning:
 ## How to Reach Me
 
 - GitHub: [@Jamacbeth](https://github.com/Jamacbeth)  
-- (You can add email, LinkedIn, or portfolio link here if you'd like)
+  
 
 
