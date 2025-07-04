@@ -32,10 +32,9 @@ As part of my upcoming coursework, I will be learning:
 
 ## Ask Me About
 
-- Adobe XD and UI/UX workflows  
-- HTML/CSS best practices  
+- Adobe XD and UI/UX workflows   
 - Getting started with Git and GitHub  
-- My experience transitioning from design to development
+- My experience transitioning from support to development
 
 ## How to Reach Me
 
