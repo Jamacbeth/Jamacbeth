@@ -8,9 +8,10 @@ My background is in IT — with hands-on experience in hardware, software, and n
 
 ## I’m Currently Working On
 
-- Strengthening my UI/UX design skills using Adobe XD
-- Practicing real-world **version control and collaboration** workflows using **Git** and **GitHub**  
-- Building small interactive projects to apply UI/UX concepts in code  
+- Strengthening my UI/UX design skills using Adobe XD  
+- Practicing real-world version control and collaboration workflows using Git and GitHub  
+- Exploring GitHub tools like branches, pull requests, and issues to simulate real-world collaboration
+
 
 ## I Will Be Learning
 
