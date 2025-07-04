@@ -4,7 +4,7 @@ I’m currently working through a full-stack design and development program that
 
 ## About Me
 
-I'm passionate about both design and development. With a background in tools like **Adobe XD**, **Illustrator**, and **Photoshop**, I focus on creating clean, user-focused interfaces. I’m now expanding into full-stack development with a strong interest in front-end frameworks and dynamic web apps.
+My background is in IT — with hands-on experience in hardware, software, and networking. I'm now expanding into full stack development, with a strong interest in frontend frameworks and building modern web applications.
 
 ## I’m Currently Working On
 
